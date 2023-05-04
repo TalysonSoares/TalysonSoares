@@ -47,4 +47,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-tailwind-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117)&nbsp;
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{TalysonSoares}/count.svg" /></p> 
+<br></div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16A085&height=120&section=footer"/>
