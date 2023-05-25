@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TalysonSoares&layout=compact&hide_border=true&title_color=16A085&text_color=16A085&bg_color=0d1117"/>
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TalysonSoares&theme=gotham)
+<!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TalysonSoares&theme=gotham) -->
 
 ![Snake animation](https://github.com/TalysonSoares/TalysonSoares/blob/output/github-contribution-grid-snake.svg)
 
