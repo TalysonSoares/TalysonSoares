@@ -9,7 +9,7 @@
 
 <!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TalysonSoares&theme=gotham) -->
 
-![Snake animation](https://github.com/TalysonSoares/TalysonSoares/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TalysonSoares/TalysonSoares/blob/output/github-contribution-grid-snake.svg)
 
 
 <div align="center">
