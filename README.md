@@ -9,7 +9,8 @@
 
 <!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TalysonSoares&theme=gotham) -->
 
-![snake gif](https://github.com/TalysonSoares/TalysonSoares/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://github.com/TalysonSoares/TalysonSoares/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/TalysonSoares/TalysonSoares/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 
 <div align="center">
